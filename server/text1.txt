@@ -1,0 +1,35 @@
+# MTL Exporter v1.0 by Seungwoo Oh at CLO - Virtual Fashion Inc.
+newmtl Cotton_Heavy_Twill_FRONT_1098936
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.067500 0.067500 0.067500
+Ns 22.032148
+illum 2
+map_Ka paris_basic_diffuse_1001.png
+map_Kd paris_basic_diffuse_1001.png
+map_bump paris_basic_normal_1001.png
+newmtl FABRIC_1_FRONT_1158011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka paris_basic_diffuse_1001.png
+map_Kd paris_basic_diffuse_1001.png
+map_bump paris_basic_normal_1001.png
+newmtl AV10_Skin
+Ka 0.205706 0.205706 0.205706
+Kd 0.800000 0.800000 0.800000
+Ks 0.081314 0.081314 0.081314
+Ns 36.000019
+illum 2
+d 1.000000
+map_Ka AV10_Skin_Diffuse_1098289.jpg
+map_Kd AV10_Skin_Diffuse_1098289.jpg
+newmtl M01-A_Cotton_(Light_Grey)
+Ka 0.203689 0.203689 0.203689
+Kd 0.792157 0.792157 0.792157
+Ks 0.000000 0.000000 0.000000
+Ns 2.000000
+illum 2
+d 1.000000
